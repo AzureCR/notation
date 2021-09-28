@@ -5,7 +5,7 @@ var (
 	Version = "v0.7.0-alpha.1"
 
 	// BuildMetadata stores the build metadata.
-	BuildMetadata = "unreleased"
+	BuildMetadata = "azure"
 )
 
 // GetVersion returns the version string in SemVer 2.
